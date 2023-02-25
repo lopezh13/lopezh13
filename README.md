@@ -1,12 +1,9 @@
 <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="200" height="200">
 <br>
-<div>
-<center><strong>HI 👋, I'M LOPEZ H </strong></center>
-
-<p>I AM A FRONT END WEB DESIGNER AND SOFTWARE<br />
-DEVELOPMENT ENGINEERING STUDENT, WELCOME TO MY GITHUB IT IS A PLEASURE<br />
-FOR ME TO LET YOU KNOW MY LITTLE PROJECTS THAT I DO IN MY INTERNSHIP TO IMPROVE MY PROGRAMMING AND DESIGN SKILLS.</p>
-</div>
+<div style='text-align: center;'>
+    <h1>Este div está centrado</h1>
+    <p>Este es un ejemplo de cómo centrar un div en HTML y CSS.</p>
+  </div>
 
 
 <hr>
