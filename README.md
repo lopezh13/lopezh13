@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="230" height="230">  
   <h1><b>HI 👋, I'M LOPEZ H </b></h1>
-   
+  <h3>I AM A FRONT END WEB DESIGNER AND SOFTWARE<br />
+DEVELOPMENT ENGINEERING STUDENT, WELCOME TO MY GITHUB IT IS A PLEASURE<br />
+FOR ME TO LET YOU KNOW MY LITTLE PROJECTS THAT I DO IN MY INTERNSHIP TO IMPROVE MY PROGRAMMING AND DESIGN SKILLS.</h3>
  </div>
 
 <hr>
