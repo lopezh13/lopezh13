@@ -1,10 +1,8 @@
-<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="200" height="200">
-<br>
-<div style='text-align: center;'>
-    <h1>Este div está centrado</h1>
-    <p>Este es un ejemplo de cómo centrar un div en HTML y CSS.</p>
-  </div>
-
+<div id="header" align="center">
+  <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="230" height="230">  
+    
+   
+ </div>
 
 <hr>
 
