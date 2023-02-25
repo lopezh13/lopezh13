@@ -1,6 +1,5 @@
  <div style="text-align: center;">
-
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Froboticaupl.wixsite.com%2Fbachillerato&psig=AOvVaw2evP9FYmSeKwAprg54krJ9&ust=1677452131011000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDVi6visf0CFQAAAAAdAAAAABAD" alt="">
+    
     <p><strong>HI 👋, I'M LOPEZ H </strong></p>
     <p>I AM A FRONT END WEB DESIGNER AND SOFTWARE<br />
     DEVELOPMENT ENGINEERING STUDENT, WELCOME TO MY GITHUB IT IS A PLEASURE<br />
