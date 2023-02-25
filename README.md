@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="230" height="230">  
-    
+  <h1><b>HI 👋, I'M LOPEZ H </b></h1>
    
  </div>
 
