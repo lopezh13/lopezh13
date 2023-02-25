@@ -1,9 +1,10 @@
 <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="90" height="90">
 <br><br>
+<p style="text-align:center"><strong>HI 👋, I'M LOPEZ H </strong></p>
 
-<div style="text-align: center;">
-  HI 👋, I'M LOPEZ H
-</div>
+<p style="text-align:center">I AM A FRONT END WEB DESIGNER AND SOFTWARE<br />
+DEVELOPMENT ENGINEERING STUDENT, WELCOME TO MY GITHUB IT IS A PLEASURE<br />
+FOR ME TO LET YOU KNOW MY LITTLE PROJECTS THAT I DO IN MY INTERNSHIP TO IMPROVE MY PROGRAMMING AND DESIGN SKILLS.</p>
 <hr>
 
 # 💫 About Me:
